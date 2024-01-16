@@ -1,0 +1,23 @@
+{
+  "name": "ultimate-guide-to-node-cron-scheduling",
+  "version": "1.0.0",
+  "description": "A simple project showcasing all the features of node-cron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node-cron",
+    "nodejs",
+    "node",
+    "js",
+    "node",
+    "scheduling"
+  ],
+  "author": "Grant Klimaytys",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-cron": "^3.0.3"
+  }
+}
